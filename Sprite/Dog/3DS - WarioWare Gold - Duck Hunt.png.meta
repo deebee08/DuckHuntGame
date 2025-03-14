@@ -1,0 +1,1537 @@
+fileFormatVersion: 2
+guid: aa93f3c5668ea42758eeb6a2c7ad662e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9079588418791080011
+    second: 3DS - WarioWare Gold - Duck Hunt_0
+  - first:
+      213: -2225997783249749310
+    second: 3DS - WarioWare Gold - Duck Hunt_1
+  - first:
+      213: -5809812968955263910
+    second: 3DS - WarioWare Gold - Duck Hunt_2
+  - first:
+      213: 8397561273024440083
+    second: 3DS - WarioWare Gold - Duck Hunt_3
+  - first:
+      213: 6461242937381282010
+    second: 3DS - WarioWare Gold - Duck Hunt_4
+  - first:
+      213: -7670050439985830142
+    second: 3DS - WarioWare Gold - Duck Hunt_5
+  - first:
+      213: -4684506904393340339
+    second: 3DS - WarioWare Gold - Duck Hunt_6
+  - first:
+      213: -7132585829544987174
+    second: 3DS - WarioWare Gold - Duck Hunt_7
+  - first:
+      213: -3671573236375413416
+    second: 3DS - WarioWare Gold - Duck Hunt_8
+  - first:
+      213: -1570857013482609991
+    second: 3DS - WarioWare Gold - Duck Hunt_9
+  - first:
+      213: 7393255574357633843
+    second: 3DS - WarioWare Gold - Duck Hunt_10
+  - first:
+      213: -212394441334583798
+    second: 3DS - WarioWare Gold - Duck Hunt_11
+  - first:
+      213: 2098761681068360894
+    second: 3DS - WarioWare Gold - Duck Hunt_12
+  - first:
+      213: 6910804847564077491
+    second: 3DS - WarioWare Gold - Duck Hunt_13
+  - first:
+      213: -1321184286773480754
+    second: 3DS - WarioWare Gold - Duck Hunt_14
+  - first:
+      213: 2409088337667794214
+    second: 3DS - WarioWare Gold - Duck Hunt_15
+  - first:
+      213: 8945819133470416719
+    second: 3DS - WarioWare Gold - Duck Hunt_16
+  - first:
+      213: 6433406018259922436
+    second: 3DS - WarioWare Gold - Duck Hunt_17
+  - first:
+      213: -5050181833689101316
+    second: 3DS - WarioWare Gold - Duck Hunt_18
+  - first:
+      213: 3652897079338575935
+    second: 3DS - WarioWare Gold - Duck Hunt_19
+  - first:
+      213: -2160979742345039694
+    second: 3DS - WarioWare Gold - Duck Hunt_20
+  - first:
+      213: 8927281103003194059
+    second: 3DS - WarioWare Gold - Duck Hunt_21
+  - first:
+      213: -8113302043594213458
+    second: 3DS - WarioWare Gold - Duck Hunt_22
+  - first:
+      213: 3547012584893581966
+    second: 3DS - WarioWare Gold - Duck Hunt_23
+  - first:
+      213: 5215414837656838621
+    second: 3DS - WarioWare Gold - Duck Hunt_24
+  - first:
+      213: 6531206611028875625
+    second: 3DS - WarioWare Gold - Duck Hunt_25
+  - first:
+      213: -3689167991111095304
+    second: 3DS - WarioWare Gold - Duck Hunt_26
+  - first:
+      213: 5038358118826147253
+    second: 3DS - WarioWare Gold - Duck Hunt_27
+  - first:
+      213: 5112715355075135106
+    second: 3DS - WarioWare Gold - Duck Hunt_28
+  - first:
+      213: 5089890847167670405
+    second: 3DS - WarioWare Gold - Duck Hunt_29
+  - first:
+      213: 8367378461572779281
+    second: 3DS - WarioWare Gold - Duck Hunt_30
+  - first:
+      213: -1732878301503580589
+    second: 3DS - WarioWare Gold - Duck Hunt_31
+  - first:
+      213: 5195920751380322225
+    second: 3DS - WarioWare Gold - Duck Hunt_32
+  - first:
+      213: -9014381376943635598
+    second: 3DS - WarioWare Gold - Duck Hunt_33
+  - first:
+      213: -8091552861402593820
+    second: 3DS - WarioWare Gold - Duck Hunt_34
+  - first:
+      213: 6965571255423741641
+    second: 3DS - WarioWare Gold - Duck Hunt_35
+  - first:
+      213: -4649653409691861519
+    second: 3DS - WarioWare Gold - Duck Hunt_36
+  - first:
+      213: -5118744078049543904
+    second: 3DS - WarioWare Gold - Duck Hunt_37
+  - first:
+      213: -4117081827908610780
+    second: 3DS - WarioWare Gold - Duck Hunt_38
+  - first:
+      213: 6903285963432159925
+    second: 3DS - WarioWare Gold - Duck Hunt_39
+  - first:
+      213: 2924929384535216426
+    second: 3DS - WarioWare Gold - Duck Hunt_40
+  - first:
+      213: -1793746390053429069
+    second: 3DS - WarioWare Gold - Duck Hunt_41
+  - first:
+      213: 3990931088361064941
+    second: 3DS - WarioWare Gold - Duck Hunt_42
+  - first:
+      213: 4508254771404207778
+    second: 3DS - WarioWare Gold - Duck Hunt_43
+  - first:
+      213: 1253958267632326126
+    second: 3DS - WarioWare Gold - Duck Hunt_44
+  - first:
+      213: -2837234112537123309
+    second: 3DS - WarioWare Gold - Duck Hunt_45
+  - first:
+      213: -5927487825741796752
+    second: 3DS - WarioWare Gold - Duck Hunt_46
+  - first:
+      213: -2932057347430966952
+    second: 3DS - WarioWare Gold - Duck Hunt_47
+  - first:
+      213: 975339035858356195
+    second: 3DS - WarioWare Gold - Duck Hunt_48
+  - first:
+      213: 3513313976397051543
+    second: 3DS - WarioWare Gold - Duck Hunt_49
+  - first:
+      213: 1003856330297954794
+    second: 3DS - WarioWare Gold - Duck Hunt_50
+  - first:
+      213: -4872567570526241411
+    second: 3DS - WarioWare Gold - Duck Hunt_51
+  - first:
+      213: 964339897127491055
+    second: 3DS - WarioWare Gold - Duck Hunt_52
+  - first:
+      213: 6852830359986407686
+    second: 3DS - WarioWare Gold - Duck Hunt_53
+  - first:
+      213: 3779171043668457093
+    second: 3DS - WarioWare Gold - Duck Hunt_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e77747dc6ea4418b6c4b9426483a28
+      internalID: -1194878289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 430
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d3db1808f0146cd929d18e9d385681
+      internalID: 907108861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 430
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4293763da5d54c14b26a6e896c54f02
+      internalID: 1181420866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 430
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a2b5a36bf7a4d7bad59977fe82adaa
+      internalID: 1606954136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 430
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c2c4e7dc4c49a3a3bec554bfbd395
+      internalID: 2015562787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 430
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0648512bbe148f19b96976842f0545
+      internalID: 2109483898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 430
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deb6f97b21684b54a04a2d3514244c0
+      internalID: 451751553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 380
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f528d48cf76345b9a7bac43381cd838
+      internalID: -1108403521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 380
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9669287e69db4b56bb3268b447ca307
+      internalID: -875001992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 330
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4476dc5706d44828aa4a3da8068ffa
+      internalID: -1283763919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 330
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44964fc1606e4b408184a5f364c0b02
+      internalID: -894924424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 330
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a655e00a285aa4859960ecbc4a82034c
+      internalID: -415620223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 330
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf64838e0729a49cf86327927d331db8
+      internalID: -1864254389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 330
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bba2266ef7243ada2c4e496f4df630
+      internalID: -1970167390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53b37794832249ba9213ca5c5638a44
+      internalID: 101241832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 280
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55562c64ca2f34e249838c8b82b4d11a
+      internalID: -926533311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 280
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e2885b5eac40f399f6dc12bd06182
+      internalID: -1569577463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 280
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cba45d75250b497d8f824449b20e2df
+      internalID: 291097951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33502a2091f30427b9efce1ebf4735aa
+      internalID: -2056460494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 280
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b628b0eca74811914ad1dd2e82c3a
+      internalID: 964379097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 280
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06474a89df82240e8872c504cfeb4283
+      internalID: 637546689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23a32b8d7b045c2911b06ee7bd7eb7
+      internalID: 2087664057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 230
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b6972ebfcc4c83bb8c1062f75b32b
+      internalID: 2133579114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 230
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d0f418009df46d7aa8b2870cb0e09b
+      internalID: 1537042644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 230
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d73ba3a4c3f04c44b3033c77f4f831e
+      internalID: -59089489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781aefdc1db41497e98bfbf3fc09a892
+      internalID: 970372131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 230
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a90e7554a048da8aca1e1179b9548
+      internalID: -1810996496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 230
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f302cc229ec4c94972337aca4d0e09
+      internalID: 1187673508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf4d375de884409bae1fd62040da142
+      internalID: -1657735629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 180
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4e0c396d4e34791942b077ad49ba9e
+      internalID: -1426180400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 180
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980998b9a663c4862acd1e037fd87b0d
+      internalID: -1417433718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 180
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50e83a3d0a149b4bd4e6cc99be14e2
+      internalID: 859795585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 180
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814842c051dda49b2be2fe1de032188b
+      internalID: -35419471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 180
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c0acc8b0194f2c9ce67409f6e599c
+      internalID: -1517487155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 180
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b059218e338349e5b8adb3a555e7fc8
+      internalID: -1588875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d5912a93174c04b7c92d239a22c0e
+      internalID: -171592581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b1a419ad9714b6683db3045d4c47d2
+      internalID: 1535842240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7102219c6174773b5f9b7fc4555912
+      internalID: 1854713585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 130
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be011f048096e4c75af503bc0f8fc2b2
+      internalID: 2084759926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21573b540564dc3aa5232774db3cdb
+      internalID: -620017422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_40
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 130
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71bdc3a994bf4df89304d9b008c8774
+      internalID: 352690287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_41
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 130
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00c1175f5cb4b2183f0a7d5deecebb
+      internalID: 1041633197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c4dd378c1542e4bbcb5fe24e6e24d
+      internalID: 884982950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6344f7d8221c243259b7a47102c205b0
+      internalID: -651426939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa785b02499994e1d95e94e253f7caed
+      internalID: -2102722389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 80
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080eca7544ede44d7b23863dc94adbfa
+      internalID: 217775227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 80
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf605bf9babd43b9aa0845503eeb33b
+      internalID: -673882507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 80
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913ffd1f397f749f685e0a806c2fe6c6
+      internalID: 1922382398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_48
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 80
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745d6fef60c7453cad4dee74784151f
+      internalID: -523207921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0589520d21b430698254cd9096eb52
+      internalID: -181289038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6798760c734112ad6d8f6d97ab209
+      internalID: -1688580372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 30
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15de9f8f490794e1998528013bcf043d
+      internalID: 934191823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 30
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97be3957f5214d30adc265654a78aa3
+      internalID: 1762625800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Duck Hunt_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 30
+        width: 65
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326e4dac34fb431f938e0f596bd3a16
+      internalID: -128827377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 323fdcff3f1af48c1b2accc204f9d03b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - WarioWare Gold - Duck Hunt_0: -1194878289
+      3DS - WarioWare Gold - Duck Hunt_1: 907108861
+      3DS - WarioWare Gold - Duck Hunt_10: -894924424
+      3DS - WarioWare Gold - Duck Hunt_11: -415620223
+      3DS - WarioWare Gold - Duck Hunt_12: -1864254389
+      3DS - WarioWare Gold - Duck Hunt_13: -1970167390
+      3DS - WarioWare Gold - Duck Hunt_14: 101241832
+      3DS - WarioWare Gold - Duck Hunt_15: -926533311
+      3DS - WarioWare Gold - Duck Hunt_16: -1569577463
+      3DS - WarioWare Gold - Duck Hunt_17: 291097951
+      3DS - WarioWare Gold - Duck Hunt_18: -2056460494
+      3DS - WarioWare Gold - Duck Hunt_19: 964379097
+      3DS - WarioWare Gold - Duck Hunt_2: 1181420866
+      3DS - WarioWare Gold - Duck Hunt_20: 637546689
+      3DS - WarioWare Gold - Duck Hunt_21: 2087664057
+      3DS - WarioWare Gold - Duck Hunt_22: 2133579114
+      3DS - WarioWare Gold - Duck Hunt_23: 1537042644
+      3DS - WarioWare Gold - Duck Hunt_24: -59089489
+      3DS - WarioWare Gold - Duck Hunt_25: 970372131
+      3DS - WarioWare Gold - Duck Hunt_26: -1810996496
+      3DS - WarioWare Gold - Duck Hunt_27: 1187673508
+      3DS - WarioWare Gold - Duck Hunt_28: -1657735629
+      3DS - WarioWare Gold - Duck Hunt_29: -1426180400
+      3DS - WarioWare Gold - Duck Hunt_3: 1606954136
+      3DS - WarioWare Gold - Duck Hunt_30: -1417433718
+      3DS - WarioWare Gold - Duck Hunt_31: 859795585
+      3DS - WarioWare Gold - Duck Hunt_32: -35419471
+      3DS - WarioWare Gold - Duck Hunt_33: -1517487155
+      3DS - WarioWare Gold - Duck Hunt_34: -1588875
+      3DS - WarioWare Gold - Duck Hunt_35: -171592581
+      3DS - WarioWare Gold - Duck Hunt_36: 1535842240
+      3DS - WarioWare Gold - Duck Hunt_37: 1854713585
+      3DS - WarioWare Gold - Duck Hunt_38: 2084759926
+      3DS - WarioWare Gold - Duck Hunt_39: -620017422
+      3DS - WarioWare Gold - Duck Hunt_4: 2015562787
+      3DS - WarioWare Gold - Duck Hunt_40: 352690287
+      3DS - WarioWare Gold - Duck Hunt_41: 1041633197
+      3DS - WarioWare Gold - Duck Hunt_42: 884982950
+      3DS - WarioWare Gold - Duck Hunt_43: -651426939
+      3DS - WarioWare Gold - Duck Hunt_44: -2102722389
+      3DS - WarioWare Gold - Duck Hunt_45: 217775227
+      3DS - WarioWare Gold - Duck Hunt_46: -673882507
+      3DS - WarioWare Gold - Duck Hunt_47: 1922382398
+      3DS - WarioWare Gold - Duck Hunt_48: -523207921
+      3DS - WarioWare Gold - Duck Hunt_49: -181289038
+      3DS - WarioWare Gold - Duck Hunt_5: 2109483898
+      3DS - WarioWare Gold - Duck Hunt_50: -1688580372
+      3DS - WarioWare Gold - Duck Hunt_51: 934191823
+      3DS - WarioWare Gold - Duck Hunt_52: 1762625800
+      3DS - WarioWare Gold - Duck Hunt_53: -128827377
+      3DS - WarioWare Gold - Duck Hunt_6: 451751553
+      3DS - WarioWare Gold - Duck Hunt_7: -1108403521
+      3DS - WarioWare Gold - Duck Hunt_8: -875001992
+      3DS - WarioWare Gold - Duck Hunt_9: -1283763919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
